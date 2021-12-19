@@ -26,7 +26,7 @@ class ListKategori extends StatelessWidget {
         ),
         MenuWidget(
           text: 'Cepat Saji',
-          image: 'assets/images/emoji_food.png',
+          image: 'assets/images/cepat_saji.png',
         ),
       ],
     );
